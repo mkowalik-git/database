@@ -8,8 +8,6 @@ Estimated Time: -- minutes
 
 ### Objectives
 
-In this lab, you will:
-
 - Insert and update data through both relational tables and JSON views
 - Understand data synchronization between access patterns
 - Explore the flexibility of dual data access
