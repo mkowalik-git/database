@@ -4,7 +4,7 @@ Modern applications increasingly rely on document stores for their flexibility a
 
 This workshop uses a coffee shop inventory and sales system as a practical example, demonstrating how to migrate JSON document collections to Oracle Database while maintaining application compatibility and gaining enterprise-grade features.
 
-### **Key Technologies Covered**:
+**Key Technologies Covered**:
 
 * **Oracle Autonomous Database**: Cloud-native database platform
 * **JSON Collection Tables**: Native JSON document storage
