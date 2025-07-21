@@ -1,5 +1,5 @@
 {
-    "workshoptitle": "The Title of the Workshop is defined in the manifest",
+    "workshoptitle": "Migrate Any Document Store to Oracle Database",
     "help": "livelabs-help-db_us@oracle.com",
     "variables": ["../../variables/variables.json",
         "../../variables/variables-in-another-file.json"],
