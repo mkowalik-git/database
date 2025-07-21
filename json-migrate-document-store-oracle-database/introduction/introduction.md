@@ -3,7 +3,8 @@
 Modern applications increasingly rely on document stores for their flexibility and ease of development. However, as businesses grow, they often encounter limitations with NoSQL databases including transaction consistency, analytical query performance, and data integrity constraints. Oracle Database 23ai bridges this gap with revolutionary JSON Relational Duality Views, allowing applications to work with data as both JSON documents and relational tables simultaneously.
 
 This workshop uses a coffee shop inventory and sales system as a practical example, demonstrating how to migrate JSON document collections to Oracle Database while maintaining application compatibility and gaining enterprise-grade features.
-Key Technologies Covered
+
+### **Key Technologies Covered**:
 
 * **Oracle Autonomous Database**: Cloud-native database platform
 * **JSON Collection Tables**: Native JSON document storage
